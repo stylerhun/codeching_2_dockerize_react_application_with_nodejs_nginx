@@ -1,4 +1,4 @@
-How to use Docker to dockerize your React application - full tutorial - installing coding building
+How to use Docker to dockerize a React app, Nodejs and Nginx reverse proxy - step by step tutorial
 
 ## Description
 
