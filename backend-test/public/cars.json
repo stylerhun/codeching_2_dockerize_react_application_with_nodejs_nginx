@@ -1,0 +1,10 @@
+[
+  { "name": "Audi", "color": "white" },
+  { "name": "Ferrari", "color": "red" },
+  { "name": "Lada", "color": "brown" },
+  { "name": "Trabant", "color": "blue" },
+  { "name": "Mercedes", "color": "white" },
+  { "name": "Bmw", "color": "gray" },
+  { "name": "Citroen", "color": "yellow" },
+  { "name": "Ford", "color": "green" }
+]
